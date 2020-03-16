@@ -4,7 +4,7 @@
   "description": "A tiny CSS grid layout for React, built with liniara. Forked from https://styled-css-grid.js.org",
   "homepage": "",
   "main": "dist/index.js",
-  "repository": "https://github.com/qburnsFB/styled-css-grid",
+  "repository": "https://github.com/qburnsFB/linaria-css-grid",
   "author": "Quinton Burns",
   "license": "MIT",
   "files": [
