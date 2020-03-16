@@ -5,7 +5,7 @@
 [![npm](https://img.shields.io/npm/v/styled-css-grid.svg?style=flat-square)](https://npmjs.org/styled-css-grid)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
-> A lightweight [CSS grid] layout for React, built with [styled-components] 💅.
+> A lightweight [CSS grid] layout for React, built with [linaria] 💅.
 
 ## demo
 
@@ -13,7 +13,7 @@ See the **[website]**.
 
 ## installation
 
-Install React and [styled-components], then:
+Install React and [linaria], then:
 
 ```bash
 $ yarn add linaria-css-grid
@@ -55,6 +55,6 @@ Props:
 * `gap`: Gap between cells. Default is `"8px"`.
 * `minRowHeight`: Minimum height of each row. Default is `"20vh"`.
 
-[website for original grid]: https://styled-css-grid.netlify.com/
+[website]: https://styled-css-grid.netlify.com/
 [CSS grid]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 [linaria]: https://github.com/callstack/linaria
