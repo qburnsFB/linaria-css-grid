@@ -1,6 +1,6 @@
 {
   "name": "linaria-css-grid",
-  "version": "0.0.7-development",
+  "version": "0.0.8-development",
   "description": "A tiny CSS grid layout for React, built with liniara. Forked from https://styled-css-grid.js.org",
   "homepage": "",
   "main": "dist/index.js",

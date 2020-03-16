@@ -1,4 +1,4 @@
-# `styled-css-grid`
+# `linaria-css-grid`
 
 [![Travis](https://img.shields.io/travis/azz/styled-css-grid.svg?style=flat-square)](https://travis-ci.org/azz/styled-css-grid)
 [![Prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
@@ -16,14 +16,14 @@ See the **[website]**.
 Install React and [styled-components], then:
 
 ```bash
-$ yarn add styled-css-grid
+$ yarn add linaria-css-grid
 ```
 
 ## usage
 
 ```jsx
 import React from "react";
-import { Grid, Cell } from "styled-css-grid";
+import { Grid, Cell } from "linaria-css-grid";
 
 const MyGrid = () => (
   <Grid columns={2} gap="2px">
@@ -55,6 +55,6 @@ Props:
 * `gap`: Gap between cells. Default is `"8px"`.
 * `minRowHeight`: Minimum height of each row. Default is `"20vh"`.
 
-[website]: https://styled-css-grid.netlify.com/
+[website for original grid]: https://styled-css-grid.netlify.com/
 [CSS grid]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
-[styled-components]: https://github.com/styled-components/styled-components
+[linaria]: https://github.com/callstack/linaria
