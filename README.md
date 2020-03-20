@@ -13,7 +13,7 @@ See the **[website]**.
 
 ## installation
 
-Install React and [linaria], then:
+Install React and [linaria``], then:
 
 ```bash
 $ yarn add linaria-css-grid
